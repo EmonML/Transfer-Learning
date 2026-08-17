@@ -11,6 +11,10 @@ Brain tumor classification from MRI images is an important computer vision appli
 The model receives an MRI image as input and predicts one of the following classes:
 
 **1. Glioma**
+
 **2. Meningioma**
+
 **3. No Tumor**
+
 **4. Pituitary**
+
