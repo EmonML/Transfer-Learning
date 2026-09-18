@@ -198,7 +198,7 @@ The notebook follows this workflow:
         ↓
 12. Confusion Matrix
         ↓
-13. ROC Curve & AUC
+13. ROC Curve
         ↓
 14. Compare Model Metrics
         ↓
@@ -297,7 +297,7 @@ Support
 
 for all eight classes.
 
-### 10. ROC Curve & AUC
+### 10. ROC Curve
 
 A multiclass ROC curve is generated using one-vs-rest class probabilities.
 
@@ -523,7 +523,7 @@ The main objectives are:
 * Compare multiple CNN architectures.
 * Evaluate multi-class classification performance.
 * Analyze class-wise errors using confusion matrices.
-* Study ROC/AUC performance.
+* Study ROC performance.
 * Visualize model performance.
 * Perform second-stage fine-tuning.
 * Build a reproducible medical-image classification workflow.
@@ -543,7 +543,7 @@ Possible extensions include:
 * External dataset validation
 * Model calibration
 * Precision-Recall curves
-* Per-class ROC/AUC comparison
+* Per-class ROC comparison
 * TensorFlow Lite conversion
 * FastAPI deployment
 * Streamlit web application
